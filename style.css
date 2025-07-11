@@ -1,0 +1,47 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 100vw;
+  background-color: #FFF8DC;
+  margin: 0 auto; /* Alles in die Mitte packen */
+}
+
+h1  {
+  text-align: center;
+}
+
+h4  {
+  margin:0.8rem;
+}
+
+nav {
+  background: #ffff;
+  width:100vw;
+  display:flex;
+}
+
+.menu {
+  width: 80vw; 
+  text-align: right;
+  float: right;
+  display: flex;
+}  
+
+.hero {
+ min-height: 50vh;
+}
+
+.about {
+  margin: 0 auto;
+}
+
+.logo {
+width: 20px;
+}
+
+
+.small-img {
+  width: 250px;
+}
